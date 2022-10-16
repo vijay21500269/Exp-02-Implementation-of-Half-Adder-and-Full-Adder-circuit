@@ -64,21 +64,21 @@ endmodule
 ### Output:
 ## Logic symbol & Truthtable:
 ### Half adder:
-![img]()
+![img](https://github.com/vijay21500269/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de1-2.png)
 ### Full adder:
-![img]()
+![img](https://github.com/vijay21500269/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/d2-2.png)
 
 ## RTL realization:
 ### Half adder:
-![img]()
+![img](https://github.com/vijay21500269/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de3-2.png)
 ### Full adder:
-![img]()
+![img](https://github.com/vijay21500269/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de4-2.png)
 
 ### TIMING DIAGRAM
 ### Half adder:
-![img]()
+![img](https://github.com/vijay21500269/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de5-2.png)
 ### Full adder:
-![img]()
+![img](https://github.com/vijay21500269/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de6-2.png)
 
 ### Result:
 Thus,the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.
